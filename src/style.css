@@ -1,11 +1,13 @@
 body {
-  background-color: #f9f7fe;
+  background-image: url("https://img.freepik.com/free-vector/pastel-gradient-blur-background_53876-117333.jpg?t=st=1738009998~exp=1738013598~hmac=b2e904265bfa4cbbd7f7459cb92f94cd1acfa3f3a17dc3bd12809ba274ac1c53&w=996");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
   font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 100 auto;
   background-color: rgb(255, 255, 255, 0.5);
   padding: 30px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -41,6 +43,7 @@ h2 {
 .time small {
   font-size: 16px;
   line-height: 36px;
+  opacity: 0.9;
 }
 h1 {
   text-align: center;
